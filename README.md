@@ -6,7 +6,7 @@ This portfolio is a static website built to highlight my experience in web devel
 To run this project locally, follow these steps:
 
 **Clone the Repository:**
-git clone https://github.com/isaacbill/My-Portfolio.git
+git clone https://github.com/isaacbill/Hackathon1
 
 
 **Navigate to the Project Directory:**
