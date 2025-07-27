@@ -37,12 +37,6 @@ To enable it:
 ## 🌐 Social Links
 
 Integrated icons with clickable links:
-- GitHub: [@isaacbill](https://github.com/isaacbill)
-- LinkedIn: [yourusername](https://linkedin.com/in/yourusername)
-- X (Twitter): [yourhandle](https://x.com/yourhandle)
-- WhatsApp: [+254743207565](https://wa.me/254743207565)
-- Facebook: [yourusername](https://facebook.com/yourusername)
-- Email: [isaacokeyo007@gmail.com](mailto:isaacokeyo007@gmail.com)
 
 ## 📦 Technologies Used
 
