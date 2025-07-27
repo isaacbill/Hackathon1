@@ -36,7 +36,7 @@ Project Links: Click the GitHub and Website buttons under each project to visit 
 **Live Demo**
 Check out the live version of this portfolio here: https://isaac-portfo.netlify.app
 **Repository**
-View the source code on GitHub: https://github.com/isaacbill/My-Portfolio
+View the source code on GitHub: https://github.com/isaacbill/Hackathon1
 **Contact**
 Interested in collaborating? Reach out to me via the Contact section on the website or through my GitHub profile.
 **License**
