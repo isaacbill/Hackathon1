@@ -1,5 +1,7 @@
-**Isaac Okeyo | Personal Portfolio**
-Welcome to my personal portfolio website! This project showcases my skills, projects, and professional journey as a Full Stack Developer. It features a responsive design, a theme toggle for light and dark modes, and detailed sections for my expertise and projects.
+# Isaac Okeyo — Personal Portfolio Website
+
+Welcome to my personal portfolio website! 🚀  
+This project showcases my skills, projects, and professional journey as a Full Stack Developer. It features a responsive design, a theme toggle for light and dark modes, and detailed sections for my expertise and projects.
 **Description**
 This portfolio is a static website built to highlight my experience in web development. It includes sections for About Me, Features, Projects, and Contact, with a clean and modern layout. The site is designed to be fully responsive and accessible across devices.
 **Installation**
@@ -8,36 +10,58 @@ To run this project locally, follow these steps:
 **Clone the Repository:**
 git clone https://github.com/isaacbill/Hackathon1
 
-
 **Navigate to the Project Directory:**
 cd Hackathon1
-
 
 **Open the index.html File:**
 
 Open index.html in a web browser (e.g., Chrome, Firefox) to view the site.
 No additional setup or server is required as it is a static HTML/CSS project.
+## 💡 Features
 
+- Fully responsive layout using **HTML** & **CSS only**
+- Custom inline **SVG icons** (no external libraries)
+- Contact form with **Formspree** email integration
+- Dark mode support (via `:has()` in CSS)
+- Clean and modern UI
 
+## 📬 Contact Form
 
-**Usage**
+Form is integrated with [Formspree.io](https://formspree.io) for secure email submissions.
 
-Explore Sections: Navigate through the About, Features, Projects, and Contact sections using the navigation bar.
-Theme Toggle: Switch between light and dark modes using the moon/sun icon in the navigation bar.
-Project Links: Click the GitHub and Website buttons under each project to visit the respective repositories and live demos.
+To enable it:
 
-**Technologies Used**
+1. Replace the `form` action URL in `index.html` with your own Formspree endpoint.
+2. Optionally, customize success messages using JavaScript or a redirect.
 
-**HTML5**: For structure and content.
-**CSS3**: For styling, including responsive design and theme toggling.
-**Font Awesome**: For icons.
-**GitHub Pages (optional)**: For hosting the live version (if deployed).
+## 🌐 Social Links
 
-**Live Demo**
-Check out the live version of this portfolio here: https://isaac-portfo.netlify.app
-**Repository**
-View the source code on GitHub: https://github.com/isaacbill/Hackathon1
-**Contact**
-Interested in collaborating? Reach out to me via the Contact section on the website or through my GitHub profile.
-**License**
+Integrated icons with clickable links:
+- GitHub: [@isaacbill](https://github.com/isaacbill)
+- LinkedIn: [yourusername](https://linkedin.com/in/yourusername)
+- X (Twitter): [yourhandle](https://x.com/yourhandle)
+- WhatsApp: [+254743207565](https://wa.me/254743207565)
+- Facebook: [yourusername](https://facebook.com/yourusername)
+- Email: [isaacokeyo007@gmail.com](mailto:isaacokeyo007@gmail.com)
+
+## 📦 Technologies Used
+
+- HTML5
+- CSS3
+- SVG Icons
+- Formspree (for form submission)
+
+## 🚀 Deployment
+
+This site is hosted on **Netlify**. You can deploy your own by dragging the folder to Netlify or connecting your GitHub repo.
+
+## ✍️ Author
+
+**Isaac Barongo Okeyo**  
+📧 isaacokeyo007@gmail.com  
+🌍 Nairobi, Kenya
+
+---
+
+## 📜 License
 This project is for personal use and demonstration purposes. Feel free to fork and modify, but please give credit where due.
