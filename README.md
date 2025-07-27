@@ -10,7 +10,7 @@ git clone https://github.com/isaacbill/Hackathon1
 
 
 **Navigate to the Project Directory:**
-cd My-Portfolio
+cd Hackathon1
 
 
 **Open the index.html File:**
