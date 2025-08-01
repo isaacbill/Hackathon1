@@ -48,7 +48,7 @@ Integrated icons with clickable links:
 ## 🚀 Deployment
 
 This site is hosted on **Netlify**. You can deploy your own by dragging the folder to Netlify or connecting your GitHub repo.
-link : https://hack-portfolio1.netlify.app/
+link to my website : https://hack-portfolio1.netlify.app/
 
 ## ✍️ Author
 
