@@ -393,14 +393,13 @@ body:has(input#theme-toggle:checked) footer {
 .social-icons a:hover {
   transform: scale(1.1);
 }
-
 .social-icons svg {
   width: 20px;
   height: 20px;
   fill: white;
 }
 .resume-btn {
-  background-color: #28a745;
+  background-color: #28a745; /* green */
   color: white;
   border-radius: 999px; 
   padding: 0.6rem 1.5rem;
