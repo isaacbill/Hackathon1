@@ -53,7 +53,7 @@ link to my website : https://hack-portfolio1.netlify.app/
 ##  Author
 
 **Isaac Barongo Okeyo**  
-📧 isaacokeyo007@gmail.com  
-🌍 Nairobi, Kenya
+ isaacokeyo007@gmail.com  
+ Nairobi, Kenya
 
 
